@@ -1,0 +1,7 @@
+kek_ct_payment:
+    resource: "@KekCTPaymentBundle/Controller/"
+    type:     annotation
+
+app:
+    resource: @AppBundle/Controller/
+    type:     annotation
